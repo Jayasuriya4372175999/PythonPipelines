@@ -208,7 +208,6 @@ __marimo__/
 
 
 #   CSV files and other yaml configuration files
-*.yaml
 *.CSV
 *.json
 *.pem
